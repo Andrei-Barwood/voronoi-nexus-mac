@@ -1,0 +1,10 @@
+{
+  "beaconing_activity": true,
+  "persistence_mechanism": 0.97,
+  "evasion_technique_detected": true,
+  "packed_binary": "true",
+  "callback_channel": true,
+  "suspicious_entropy": 0.91,
+  "mass_file_deletion": 0.85,
+  "api_sequence_similarity": 0.88
+}

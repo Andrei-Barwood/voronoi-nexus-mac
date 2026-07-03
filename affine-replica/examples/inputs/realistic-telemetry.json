@@ -1,0 +1,12 @@
+{
+  "beaconing_to_c2": true,
+  "persistence_via_launchd": 0.82,
+  "evasion_via_process_hollowing": true,
+  "packed_upx_binary": "true",
+  "high_entropy_section": 0.89,
+  "suspicious_callback_url": true,
+  "mass_registry_modifications": 0.71,
+  "api_call_similarity": 0.93,
+  "normal_user_behavior_score": 0.15,
+  "file_access_anomaly": 0.67
+}

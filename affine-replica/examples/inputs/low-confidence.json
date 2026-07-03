@@ -1,0 +1,7 @@
+{
+  "evasion_signals": 3,
+  "payload_stage_count": 2,
+  "suspicious_entropy": 0.55,
+  "api_sequence_similarity": 0.61,
+  "packed_binary": "false"
+}

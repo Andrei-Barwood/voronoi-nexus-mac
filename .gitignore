@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# SwiftPM
+.build/
+.swiftpm/
+*.xcodeproj
+
+# Build artifacts
+*.o
+*.dylib
+*.so
+*.a
+
+# IDEs
+.idea/
+.vscode/
+*.xcuserstate
+DerivedData/
+
+# Local helper files
+module-port-prompts.txt
+
+# Ignore resolved in sub-examples (keep main one)
+examples/library-usage/Package.resolved

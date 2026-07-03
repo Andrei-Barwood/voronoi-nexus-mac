@@ -1,0 +1,7 @@
+{
+  "api_sequence_similarity": 0.12,
+  "syscall_profile_risk": 0.08,
+  "payload_stage_count": 1,
+  "network_entropy": 0.25,
+  "user_interaction_score": 0.4
+}

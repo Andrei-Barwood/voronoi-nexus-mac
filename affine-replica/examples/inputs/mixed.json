@@ -1,0 +1,12 @@
+{
+  "beaconing_activity": true,
+  "persistence_mechanism": 0.95,
+  "evasion_technique_detected": false,
+  "packed_binary": "true",
+  "syscall_profile_risk": 0.45,
+  "suspicious_entropy": 0.78,
+  "api_sequence_similarity": 0.22,
+  "callback_channel": 1,
+  "low_risk_noise": 0.15,
+  "cluster_anomaly_score": 0.65
+}
