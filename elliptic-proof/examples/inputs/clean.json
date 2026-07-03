@@ -1,0 +1,6 @@
+{
+  "key_length": 256,
+  "cipher_strength": 0.95,
+  "tls_version": 1.3,
+  "signature_algorithm": 0.9
+}

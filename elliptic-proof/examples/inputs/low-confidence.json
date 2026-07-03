@@ -1,0 +1,6 @@
+{
+  "deprecated_ciphers": 1,
+  "weak_key_detected": false,
+  "tls_misconfigurations": 1,
+  "signature_validation_issues": 0
+}

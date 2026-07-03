@@ -1,0 +1,9 @@
+{
+  "weak_rsa_key": true,
+  "deprecated_cipher_suite": true,
+  "insecure_diffie_hellman": true,
+  "missing_perfect_forward_secrecy": true,
+  "weak_elliptic_curve": 0.92,
+  "outdated_tls_version": true,
+  "signature_algorithm_vulnerability": true
+}

@@ -1,0 +1,8 @@
+{
+  "deprecated_ciphers": 2,
+  "weak_key_detected": true,
+  "tls_misconfigurations": 4,
+  "signature_validation_issues": 1,
+  "key_length": 128,
+  "hash_strength": 0.65
+}

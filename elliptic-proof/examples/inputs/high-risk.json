@@ -1,0 +1,10 @@
+{
+  "deprecated_ciphers": true,
+  "weak_key_detected": true,
+  "tls_misconfigurations": 5,
+  "signature_validation_issues": 3,
+  "insecure_curve": true,
+  "missing_key_rotation": 0.95,
+  "weak_hash_algorithm": true,
+  "packed_crypto_lib": true
+}
