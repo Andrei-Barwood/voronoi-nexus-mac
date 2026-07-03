@@ -1,0 +1,6 @@
+{
+  "suspicious_imports": 9,
+  "packed_binary": true,
+  "network_callbacks": 5,
+  "anti_vm_checks": true
+}

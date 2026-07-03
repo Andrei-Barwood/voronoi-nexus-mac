@@ -1,0 +1,10 @@
+{
+  "packed_binary": true,
+  "evasion_technique": true,
+  "beaconing_to_c2": true,
+  "anti_vm_checks": true,
+  "suspicious_imports": 15,
+  "high_entropy_section": 0.95,
+  "network_callbacks": 8,
+  "persistence_mechanism": true
+}

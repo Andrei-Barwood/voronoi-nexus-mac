@@ -1,0 +1,6 @@
+{
+  "suspicious_imports": 2,
+  "packed_binary": false,
+  "network_callbacks": 1,
+  "file_entropy": 0.35
+}

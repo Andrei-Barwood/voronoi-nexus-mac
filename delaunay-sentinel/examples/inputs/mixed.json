@@ -1,0 +1,9 @@
+{
+  "suspicious_imports": 9,
+  "packed_binary": true,
+  "network_callbacks": 5,
+  "anti_vm_checks": true,
+  "file_entropy": 0.45,
+  "suspicious_strings": 4,
+  "normal_behavior": 0.8
+}
